@@ -1,225 +1,357 @@
-# 👋 Hi, I'm Grace
+<div align="center">
 
-### 🤖 AI Developer · Data · MLOps · Generative AI
+# `GRACE // AI SYSTEM`
 
-> **Building with AI — from data to creative media.**
-
-I explore the intersection of **Artificial Intelligence, Data and Creativity**.
+### `AI DEVELOPER` · `DATA` · `MLOps` · `GENERATIVE AI`
 
 ```text
-AI / DATA / MLOps / GENERATIVE AI
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║          DIGITAL CREATOR // AI EXPLORER              ║
+║                                                      ║
+║       DATA × INTELLIGENCE × CREATIVITY               ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+**SYSTEM STATUS:** `● ONLINE`
+**MODE:** `BUILDING`
+**CURRENT VERSION:** `v1.0.26`
+
+<br>
+
+> **I don't just use AI. I build with it.**
+
+</div>
+
+---
+
+# `01 // SYSTEM`
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  GRACE                                                │
+│  ────────────────────────────────────────────────     │
+│                                                      │
+│  AI Developer exploring the intersection of          │
+│  Data, Machine Learning, MLOps and Generative AI.    │
+│                                                      │
+│  Turning data into intelligence,                     │
+│  and intelligence into creation.                    │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🧠 What I Do
+# `02 // CORE ARCHITECTURE`
 
-| Area                    | Focus                                          |
-| ----------------------- | ---------------------------------------------- |
-| 🐍 **Python**           | Data Processing · Automation                   |
-| 📊 **Data Analysis**    | EDA · Visualization · Feature Engineering      |
-| 🧠 **Machine Learning** | Classification · Regression · Model Evaluation |
-| ⚙️ **MLOps**            | ML Pipeline · Model Training · Deployment      |
-| 🤖 **Generative AI**    | AI Video · AI Music · AI Characters            |
-| 🎨 **Creative AI**      | Storytelling · Visual Design · AI Production   |
+```text
+                         ┌──────────────────┐
+                         │   GRACE / CORE   │
+                         │    AI SYSTEM     │
+                         └────────┬─────────┘
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+       ┌───────────┐        ┌───────────┐        ┌────────────┐
+       │ DATA CORE │        │  AI CORE  │        │ CREATIVE   │
+       │           │        │           │        │    CORE    │
+       └─────┬─────┘        └─────┬─────┘        └──────┬─────┘
+             │                    │                     │
+             ▼                    ▼                     ▼
+          Python              Machine Learning       AI Video
+          Pandas              XGBoost                AI Music
+          NumPy               LightGBM               AI Image
+          SQL                 Computer Vision        Storytelling
+             │                    │                     │
+             └────────────────────┼─────────────────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │  GENERATIVE AI   │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         HUMAN CREATIVITY
+```
 
 ---
 
-## 🛠 Tech Stack
+# `03 // TECH MATRIX`
 
-### Languages
+### `LANGUAGES`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-050505?style=for-the-badge\&logo=postgresql\&logoColor=4479A1)
 
-### Data & Machine Learning
+### `DATA`
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-050505?style=for-the-badge\&logo=pandas\&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-050505?style=for-the-badge\&logo=numpy\&logoColor=013243)
 
-### Tools
+### `MACHINE LEARNING`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-050505?style=for-the-badge\&logo=scikit-learn\&logoColor=F7931E)
+![XGBoost](https://img.shields.io/badge/XGBoost-050505?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-050505?style=for-the-badge)
+
+### `TOOLS`
+
+![Git](https://img.shields.io/badge/Git-050505?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+![Jupyter](https://img.shields.io/badge/Jupyter-050505?style=for-the-badge\&logo=jupyter\&logoColor=F37626)
 
 ---
 
-# 🚀 Featured Projects
+# `04 // CURRENT MISSION`
 
-### 🧠 Machine Learning
+```text
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│  [01] ████████████████████  MACHINE LEARNING        │
+│  [02] █████████████████░░░  DATA ANALYSIS           │
+│  [03] ███████████████░░░░░  MLOps                   │
+│  [04] █████████████████░░░  GENERATIVE AI           │
+│  [05] ██████████████░░░░░░  COMPUTER VISION         │
+│                                                      │
+│  STATUS: IN PROGRESS                                 │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+```
 
-> Exploring practical machine learning workflows with Python.
+---
+
+# `05 // ACTIVE EXPERIMENTS`
+
+## `PROJECT_001`
+
+### 🧠 MACHINE LEARNING
+
+```text
+INPUT
+  │
+  ▼
+DATASET
+  │
+  ▼
+EDA
+  │
+  ▼
+FEATURE ENGINEERING
+  │
+  ▼
+MODEL TRAINING
+  │
+  ▼
+EVALUATION
+  │
+  ▼
+PREDICTION
+```
 
 **Focus**
 
-* Classification
-* Regression
-* Feature Engineering
-* Model Evaluation
-* Hyperparameter Tuning
+`Classification` · `Regression` · `Feature Engineering` · `Model Evaluation`
 
 ---
 
-### 📊 Data Analysis
+## `PROJECT_002`
 
-> Turning raw data into useful insights.
-
-**Workflow**
+### 📊 DATA ANALYSIS
 
 ```text
-CSV
- ↓
-Data Cleaning
- ↓
+RAW DATA
+   ↓
+CLEANING
+   ↓
 EDA
- ↓
-Visualization
- ↓
-Feature Engineering
- ↓
-Machine Learning
+   ↓
+VISUALIZATION
+   ↓
+INSIGHT
 ```
 
+**Focus**
+
+`Pandas` · `NumPy` · `Matplotlib` · `EDA`
+
 ---
+
+## `PROJECT_003`
 
 ### ⚙️ MLOps
 
-> Building reproducible machine learning workflows.
-
-```text
-Data
- ↓
-Preprocessing
- ↓
-Training
- ↓
-Evaluation
- ↓
-Model
- ↓
-Deployment
-```
-
----
-
-### 🎬 Generative AI
-
-> Exploring AI as a creative tool.
-
-**Creative Projects**
-
-* 🎵 AI Music
-* 🎬 AI Music Video
-* 🤖 AI Characters
-* 🎨 Visual Storytelling
-* 🎥 AI Video Production
-* 📝 AI Storyboard
-
----
-
-# 🌌 Creative AI Lab
-
-```text
-┌──────────────────────────────────────┐
-│           CREATIVE AI LAB            │
-├──────────────────────────────────────┤
-│                                      │
-│  DATA  ────────►  AI  ───────► ART  │
-│                    │                 │
-│                    ▼                 │
-│              GENERATIVE AI           │
-│                    │                 │
-│          ┌─────────┼─────────┐       │
-│          ▼         ▼         ▼       │
-│        MUSIC     VIDEO    STORY      │
-│                                      │
-└──────────────────────────────────────┘
-```
-
----
-
-# 📚 Currently Learning
-
-```text
-[████████░░] Machine Learning
-
-[███████░░░] MLOps
-
-[████████░░] Data Analysis
-
-[███████░░░] Generative AI
-
-[██████░░░░] Computer Vision
-```
-
----
-
-# 🔬 Current Interests
-
-```text
-Artificial Intelligence
-Machine Learning
-Data Analysis
-MLOps
-Computer Vision
-Generative AI
-Creative Technology
-```
-
----
-
-# 🎯 My Direction
-
-> **Technology × Data × Creativity**
-
-I'm interested in building practical AI projects that connect:
-
 ```text
 DATA
-  +
-MACHINE LEARNING
-  +
-MLOps
-  +
-GENERATIVE AI
-  =
-CREATIVE AI
+  ↓
+PREPROCESSING
+  ↓
+TRAINING
+  ↓
+VALIDATION
+  ↓
+MODEL
+  ↓
+DEPLOYMENT
 ```
 
----
+**Focus**
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
+`ML Pipeline` · `Model Training` · `Model Evaluation` · `Deployment`
 
 ---
 
-# 🐍 Contribution Snake
+## `PROJECT_004`
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-# 💫 Let's Build Something with AI
+### 🎬 GENERATIVE AI
 
 ```text
-AI is not only about models.
-
-It's about what we can create with them.
+IDEA
+ │
+ ▼
+PROMPT
+ │
+ ▼
+GENERATIVE MODEL
+ │
+ ├──── IMAGE
+ ├──── MUSIC
+ ├──── VIDEO
+ └──── CHARACTER
+ │
+ ▼
+CREATIVE OUTPUT
 ```
 
-### 🚀 Keep Learning · Keep Building · Keep Creating
+**Creative Lab**
+
+`AI Music` · `AI Video` · `AI Character` · `Storyboard` · `Visual Storytelling`
+
+---
+
+# `06 // NEURAL MAP`
+
+```text
+                    ┌─────────────────────┐
+                    │       HUMAN         │
+                    │     CREATIVITY      │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    GENERATIVE AI    │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+              ▼                ▼                ▼
+           🎵 MUSIC          🎬 VIDEO         🎨 IMAGE
+              │                │                │
+              └────────────────┼────────────────┘
+                               │
+                               ▼
+                       CREATIVE OUTPUT
+```
+
+---
+
+# `07 // SYSTEM LOG`
+
+```text
+> booting grace.ai...
+
+[ OK ] Python environment loaded
+[ OK ] Data engine initialized
+[ OK ] Machine Learning module loaded
+[ OK ] MLOps module initialized
+[ OK ] Generative AI module loaded
+[ OK ] Creative engine initialized
+
+> scanning for new ideas...
+
+████████████████████████████████ 100%
+
+> SYSTEM READY
+
+> next mission:
+> BUILD SOMETHING NEW
+```
+
+---
+
+# `08 // CURRENTLY LEARNING`
+
+```text
+┌────────────────────────────────────────────┐
+│                                            │
+│  MACHINE LEARNING       █████████░░  80%   │
+│  DATA ANALYSIS          █████████░░  80%   │
+│  MLOps                  ███████░░░░  70%   │
+│  GENERATIVE AI          █████████░░  85%   │
+│  COMPUTER VISION        ██████░░░░░  60%   │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+> Learning is a continuous process.
+> The numbers above represent **current focus**, not skill ratings.
+
+---
+
+# `09 // DIGITAL PHILOSOPHY`
+
+```text
+          DATA
+            │
+            ▼
+       INTELLIGENCE
+            │
+            ▼
+       GENERATIVE AI
+            │
+            ▼
+        CREATIVITY
+            │
+            ▼
+          IMPACT
+```
+
+> **Technology is the tool.
+> Creativity is the direction.**
+
+---
+
+# `10 // GITHUB`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=00000000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=00000000)
+
+</div>
+
+---
+
+# `11 // CONNECTION`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       THE SYSTEM IS STILL LEARNING...       ║
+║                                              ║
+║       BUILD  ·  CREATE  ·  EXPLORE          ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+### `GRACE // AI SYSTEM`
+
+**DATA × AI × MLOps × CREATIVITY**
+
+</div>
