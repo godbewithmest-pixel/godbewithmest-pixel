@@ -4,6 +4,11 @@
 
 ### `AI DEVELOPER` · `DATA` · `MLOps` · `GENERATIVE AI`
 
+<img src="https://img.shields.io/badge/Language-181717?style=flat-square&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"><img src="https://img.shields.io/badge/v3.11-4B8BBE?style=flat-square">
+
+
+<img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FF55C7">
+
 ```text
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
