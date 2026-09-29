@@ -1,3 +1,15 @@
+<p align="center">
+  <img
+    src="./grace-nexus-banner.png"
+    alt="GRACE — Futuristic AI technology portfolio banner"
+    width="100%"
+  />
+</p>
+
+
+
+
+
 <div align="center">
 
 # `GRACE // AI SYSTEM`
