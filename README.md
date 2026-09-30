@@ -1,9 +1,13 @@
-<div align="center">
-  <img src="grace-banner-animated.gif"
-       width="100%"
-       alt="Grace Jung Animated AI Portfolio Banner"/>
-</div>
 
+<div align="center">
+
+<img
+  src="assets/grace-jung-banner-animated-1500x500.gif"
+  width="100%"
+  alt="Grace Jung Animated AI Portfolio Banner"
+/>
+
+</div>
 
 
 
