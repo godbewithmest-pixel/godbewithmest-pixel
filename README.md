@@ -1,10 +1,11 @@
 
+
 <div align="center">
 
 <img
-  src="grace-nexus-banner-animated-1500x500.gif"
+  src="1grace-jung-banner-animated-1500x500.gif"
   width="100%"
-  alt="Grace Nexus Animated AI Banner"
+  alt="Grace Jung Animated AI Portfolio Banner"
 />
 
 </div>
