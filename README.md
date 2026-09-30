@@ -1,12 +1,8 @@
-<p align="center">
-  <img
-    src="./grace-nexus-banner.png"
-    alt="GRACE — Futuristic AI technology portfolio banner"
-    width="100%"
-  />
-</p>
-
-
+<div align="center">
+  <img src="grace-banner-animated.gif"
+       width="100%"
+       alt="Grace Jung Animated AI Portfolio Banner"/>
+</div>
 
 
 
